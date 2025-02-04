@@ -2,13 +2,6 @@
 
 > Um projeto inspirado no universo **Minecraft**, desenvolvido com **React.js** e **Node.js**, para proporcionar uma experiência interativa aos jogadores e fãs do jogo.
 
-## 📌 Sobre o Projeto  
-O **Mine Place** é uma plataforma criada para reunir jogadores, compartilhar informações e oferecer interatividade com recursos como:  
-✅ Interface inspirada no design do Minecraft  
-✅ Busca por servidores e comunidades  
-✅ Listagem de eventos, mods e tutoriais  
-✅ Sistema de login e interação  
-
 ## 🚀 Tecnologias Utilizadas  
 | **React.js** | **Node.js** |
 |-------------|------------|
