@@ -13,7 +13,8 @@ const GlobalStyle = createGlobalStyle`
     --gold: #BFA181;
   }
   body {
-    background-color: var(--primary);
+    /* background-color: var(--primary); */
+    background: radial-gradient(circle, #0A1828 0%, rgb(0, 0, 0) 100%);
     color: var(--secundary);
     font-size: 1.2rem;
     font-weight: 400;

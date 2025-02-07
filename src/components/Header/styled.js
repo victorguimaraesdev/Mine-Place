@@ -1,12 +1,16 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
   padding: 25px 150px;
   height: 75px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.5);
   color: var(--secundary);
   /* border-bottom: 1px solid rgb(121, 124, 124); */
   border-bottom: 1px solid var(--gold);

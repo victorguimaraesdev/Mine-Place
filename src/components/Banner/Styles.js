@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  margin: 0;
+  margin-top: 75px;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -18,7 +18,7 @@ export const Text = styled.div`
   display: flex;
   justify-content: center;
   flex-direction: column;
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.5);
   gap: 5px;
   height: 300px;
   width: 800px;
@@ -26,6 +26,7 @@ export const Text = styled.div`
   border-radius: 20px;
   h1 {
     font-size: 50px;
+    font-family: "Pixelify Sans", serif;
   }
   p {
     color: var(--secundary);
@@ -33,6 +34,7 @@ export const Text = styled.div`
     width: 600px;
   }
   button {
+    font-family: "Pixelify Sans", serif;
     transition: 0.5s;
     font-size: 19px;
     margin-top: 20px;
