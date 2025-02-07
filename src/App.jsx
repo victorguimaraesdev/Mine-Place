@@ -1,3 +1,4 @@
+import Banner from "./components/Banner";
 import Header from "./components/Header";
 import GlobalStyle from "./styles/Global";
 function App() {
@@ -5,6 +6,7 @@ function App() {
     <>
       <GlobalStyle />
       <Header />
+      <Banner />
     </>
   );
 }
