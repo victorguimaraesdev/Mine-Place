@@ -1,8 +1,8 @@
-# React + Vite
+# 🟩 Mine Place 🟫
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Um projeto inspirado no universo **Minecraft**, desenvolvido com **React.js** e **Node.js**, para proporcionar uma experiência interativa aos jogadores e fãs do jogo.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologias Utilizadas  
+| **React.js** | **Node.js** |
+|-------------|------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg" height="50" alt="Styled Components logo"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express.js logo"> |
