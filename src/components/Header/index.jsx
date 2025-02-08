@@ -19,6 +19,9 @@ function Header() {
           <li>
             <a href="#">Contato</a>
           </li>
+          <li>
+            <a href="#">Sobre</a>
+          </li>
         </ul>
       </Menu>
     </Container>

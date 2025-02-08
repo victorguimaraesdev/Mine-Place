@@ -41,7 +41,7 @@ export const Text = styled.div`
     height: 50px;
     width: 200px;
     background-color: var(--secundary);
-    color: var(--gold);
+    color: #d3d3d3;
     border-radius: 20px;
     &:hover {
       cursor: pointer;
