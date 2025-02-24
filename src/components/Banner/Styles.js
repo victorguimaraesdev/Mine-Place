@@ -18,7 +18,7 @@ export const Text = styled.div`
   display: flex;
   justify-content: center;
   flex-direction: column;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.4);
   gap: 5px;
   height: 300px;
   width: 800px;
@@ -29,7 +29,7 @@ export const Text = styled.div`
     font-family: "Pixelify Sans", serif;
   }
   p {
-    color: var(--secundary);
+    color: #d3d3d3;
 
     width: 600px;
   }

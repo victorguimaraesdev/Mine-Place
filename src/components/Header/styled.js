@@ -10,9 +10,8 @@ export const Container = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.9);
   color: var(--secundary);
-  /* border-bottom: 1px solid rgb(121, 124, 124); */
   border-bottom: 1px solid var(--gold);
 `;
 export const LogoImg = styled.div`
