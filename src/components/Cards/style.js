@@ -11,6 +11,7 @@ export const Container = styled.div`
 export const Card = styled.div`
   display: flex;
   flex-direction: column;
+  cursor: pointer;
   background-color: rgba(0, 0, 0, 0.5);
   width: 300px;
   height: 300px;
